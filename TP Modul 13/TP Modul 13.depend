@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1671395808 source:d:\_kuliah\matkul\semester 3\struktur data\tugas pendahuluan 13\tp modul 13\graph.cpp
+	"graph.h"
+
+1671396258 d:\_kuliah\matkul\semester 3\struktur data\tugas pendahuluan 13\tp modul 13\graph.h
+	<iostream>
+
+1671396147 source:d:\_kuliah\matkul\semester 3\struktur data\tugas pendahuluan 13\tp modul 13\main.cpp
+	"graph.h"
+
+1671389558 source:d:\_kuliah\matkul\semester 3\struktur data\tugas pendahuluan 13\tp modul 13\graph.h
+	<iostream>
+
